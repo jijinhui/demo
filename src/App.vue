@@ -13,7 +13,7 @@
   export default Vue.extend({
     data: function() {
       return {
-        name: 'Welcome to your Vue.js App!',
+        name: 'Welcome  your Vuffjing咯咯e.js App!',
       }
     },
   });
